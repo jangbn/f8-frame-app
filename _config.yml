@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : F8 Frame                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : A Minimalist Photo Framing Tool
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,31 +38,31 @@ features                                  :
 
   - title                                 : Photo Framing
     description                           : Select photos from your album and add custom borders with a single tap.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : picture-o
     
   - title                                 : EXIF Data Display
     description                           : Show important information like camera model, lens details, and exposure settings within the border.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : film
 
   - title                                 : Highly Customizable
     description                           : Freely adjust border colors and choose which parameters to display, meeting your personal preferences.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : gears
 
   - title                                 : Easy Exporth
     description                           : Processed photos can be easily saved back to your album, ready to share.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : download
 
   - title                                 : Lightweight Design
     description                           : Small app size, quick startup, and smooth operation.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : rocket
   
   - title                                 : Offline Usage
     description                           : No internet connection required, use anytime, anywhere.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : home
 
   - title                                 : Clean Interface
     description                           : Intuitive and user-friendly interface, easy for beginners to master.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : simplybuilt
 
   - title                                 : # New Featur;'e Title
     description                           : # New Feature Description
