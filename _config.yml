@@ -1,9 +1,9 @@
 #page title
-page_title                                : F8 Frame                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 秉文识字                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6639610207                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 6470270145                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : cn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : F8 Frame                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 秉文识字                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A Minimalist Photo Framing Tool
+app_description                           : 简洁无干扰的儿童识字应用
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,33 +35,39 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Photo Framing
-    description                           : Select photos from your album and add custom borders with a single tap.
+1. 内置字库包含3539个汉字，完整覆盖义务教育阶段的内容。
+2. 根据中小学课内外读物中的字频，设置5个分级字表，科学安排学习顺序。
+3. 动画展示笔画顺序，直观展示汉字书写规则。
+4. 练习模式，智能辅助学习写字。
+5. 创建自定义生字表，自由安排学习计划。
+6. 离线使用，无需网络连接。
+7. 界面简洁无干扰，易于上手。
+  - title                                 : 内置字库
+    description                           : 内置字库包含3539个汉字，完整覆盖义务教育阶段的内容。
     fontawesome_icon_name                 : picture-o
     
-  - title                                 : EXIF Data Display
-    description                           : Show important information like camera model, lens details, and exposure settings within the border.
+  - title                                 : 分级字表
+    description                           : 根据中小学课内外读物中的字频，设置5个分级字表，科学安排学习顺序。
     fontawesome_icon_name                 : film
 
-  - title                                 : Highly Customizable
-    description                           : Freely adjust border colors and choose which parameters to display, meeting your personal preferences.
+  - title                                 : 笔画动画
+    description                           : 动画展示笔画顺序，直观展示汉字书写规则。
     fontawesome_icon_name                 : gears
 
-  - title                                 : Easy Exporth
-    description                           : Processed photos can be easily saved back to your album, ready to share.
+  - title                                 : 智能辅助
+    description                           : 练习模式，智能辅助学习写字。
     fontawesome_icon_name                 : download
 
-  - title                                 : Lightweight Design
-    description                           : Small app size, quick startup, and smooth operation.
+  - title                                 : 自定义生字表
+    description                           : 创建自定义生字表，自由安排学习计划。
     fontawesome_icon_name                 : rocket
   
-  - title                                 : Offline Usage
-    description                           : No internet connection required, use anytime, anywhere.
+  - title                                 : 离线使用
+    description                           : 离线使用，无需网络连接。
     fontawesome_icon_name                 : home
 
-  - title                                 : Clean Interface
-    description                           : Intuitive and user-friendly interface, easy for beginners to master.
+  - title                                 : 简约易用
+    description                           : 界面简洁无干扰，易于上手。
     fontawesome_icon_name                 : simplybuilt
 
   - title                                 : # New Featur;'e Title

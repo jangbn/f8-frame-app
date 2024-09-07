@@ -8,17 +8,19 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-This sleek and powerful iOS app is the perfect companion for photography enthusiasts and professionals alike. It allows you to add elegant borders to your photos while displaying crucial shooting parameters, giving your work a more professional and appealing look.
+秉文识字是一款专为儿童设计的汉字学习应用，内置3539个汉字，涵盖小学至初中整个义务教育阶段的必学字。通过直观的笔画顺序动画和拼音展示，孩子们可以系统掌握汉字的书写顺序和发音，轻松打下坚实的基础。
 
-Key Features:
-1. Photo Framing: Select photos from your album and add custom borders with a single tap.
-2. EXIF Data Display: Show important information like camera model, lens details, and exposure settings within the border.
-3. Highly Customizable: Freely adjust border colors and choose which parameters to display, meeting your personal preferences.
-4. Easy Export: Processed photos can be easily saved back to your album, ready to share.
-5. Lightweight Design: Small app size, quick startup, and smooth operation.
-6. Offline Usage: No internet connection required, use anytime, anywhere.
-7. Clean Interface: Intuitive and user-friendly interface, easy for beginners to master.
+应用界面简洁清晰，没有广告或不必要的干扰，确保孩子能够专注于学习。家长和孩子可以使用应用中的自定义生字表功能，按照学习进度和需求创建个性化的字表，并制订科学的学习计划。
 
-Whether you want to showcase your photography on social media or prepare professional photo presentations for clients, this app meets your needs. By adding borders and displaying shooting parameters, your photos will stand out while also demonstrating your professional skills.
+无论是课前预习还是课后复习，秉文识字都能帮助孩子巩固汉字知识，提高识字能力。让孩子们在充满趣味的学习中，爱上汉字，掌握汉字，逐步提升阅读和写作能力。
+
+主要功能:
+1. 内置字库包含3539个汉字，完整覆盖义务教育阶段的内容。
+2. 根据中小学课内外读物中的字频，设置5个分级字表，科学安排学习顺序。
+3. 动画展示笔画顺序，直观展示汉字书写规则。
+4. 练习模式，智能辅助学习写字。
+5. 创建自定义生字表，自由安排学习计划。
+6. 离线使用，无需网络连接。
+7. 界面简洁无干扰，易于上手。
 
 <br>
